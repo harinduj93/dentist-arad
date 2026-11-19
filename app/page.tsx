@@ -1602,7 +1602,7 @@ export default function App() {
           {/* Bottom Copyright */}
           <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
             <p>
-              © {new Date().getFullYear()} Cabinet Stomatologic Dr. Bucur Ioana (dentistarad.ro).
+              © 2026 Cabinet Stomatologic Dr. Bucur Ioana (dentistarad.ro).
               Toate drepturile rezervate.
             </p>
             <div className="flex items-center gap-6">
